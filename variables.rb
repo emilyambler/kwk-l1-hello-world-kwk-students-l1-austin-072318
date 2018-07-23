@@ -4,9 +4,11 @@
 # creates comment that the computer won't run as code 
 # highlight and press control or command / to turn code into comments
 
-name = "emily"
+# name = "emily"
 # puts name
 # age = 17
 #puts "my name is #{name}, and I am #{age} years old"
+
 puts "What is your name"
 name = gets
+puts "Hey wassup #{name}!"
