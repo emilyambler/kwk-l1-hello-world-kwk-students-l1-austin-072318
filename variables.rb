@@ -1,8 +1,8 @@
 # x = 7
 # y = 3
 # puts x+y
-# creates comment that the computer won't run as assert_select_encoded
+# creates comment that the computer won't run as code 
+# highlight and press control or command / to turn code into comments
 
-
-name= "dayi"
+name= "emily"
 puts name
