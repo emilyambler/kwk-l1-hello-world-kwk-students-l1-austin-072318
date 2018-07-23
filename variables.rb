@@ -9,6 +9,6 @@
 # age = 17
 #puts "my name is #{name}, and I am #{age} years old"
 
-puts "What is your name"
+puts "What's your name"
 name = gets.chomp
 puts "Hey wassup #{name}!"
